@@ -1,1 +1,1 @@
-# GenZ-UK-Green-Premium
+# GenZ-Green-Premium
