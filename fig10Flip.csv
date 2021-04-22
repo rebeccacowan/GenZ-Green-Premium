@@ -1,0 +1,14 @@
+Anova: Single Factor						
+						
+SUMMARY						
+Groups	Count	Sum	Average	Variance		
+withoutPrice	9	13950	1550	217115		
+withPrice	9	7293	810.3333333	231680.25		
+						
+						
+ANOVA						
+Source of Variation	SS	df	MS	F	P-value	F crit
+Between Groups	2461980.5	1	2461980.5	10.97150872	0.004403443	4.493998478
+Within Groups	3590362	16	224397.625			
+						
+Total	6052342.5	17				
